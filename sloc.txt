@@ -1,0 +1,6 @@
+('Ignored', 49, 'lines')
+(694, 'distinct places')
+['Forestville', 'Fosterville']
+['Gander', 'Grande']
+['Grunthal', 'Langruth']
+['Lamont', 'Malton']

@@ -1,0 +1,904 @@
+   CA DIG Digby                               Digby                               NS  1------- AC 8103 YDG                                                                 
+   CA DIL Dildo                               Dildo                               NL  1-3----- AS 0501      4733N 05333W                                                   
+   CA DLK Dilke                               Dilke                               SK  --3----- RQ 0901      5052N 10515W                                                   
++  CA DMS Dimsdale                            Dimsdale                            AB  --3--6-- RL 1707      5508N 11859W                                                   
+   CA DWL Dingwall                            Dingwall                            NS  1------- RL 0001      4654N 06028W                                                   
+   CA DSL Disraeli                            Disraeli                            QC  --3----- RL 1207      4554N 07121W                                                   
+   CA DOA Doaktown                            Doaktown                            NB  -23----- RL 0207      4633N 06608W                                                   
+   CA DTO Dobbinton                           Dobbinton                           ON  --3----- RQ 0901      4423N 08108W                                                   
+   CA YDX Doc Creek                           Doc Creek                           BC  ---4---- AI 0002                                                                     
+   CA YDO Dolbeau                             Dolbeau                             QC  ---4---- AI 0002                                                                     
+   CA DDO Dollard-des-Ormeaux                 Dollard-des-Ormeaux                 QC  --3----- RL 0307      4527N 07351W                                                   
+   CA DOM Don Mills                           Don Mills                           ON  --3----- RL 0207      4344N 07920W                                                   
+   CA DOK Donkin                              Donkin                              NS  --3----- RL 1607      4611N 05952W                                                   
+   CA DNC Donnacona                           Donnacona                           QC  --3----- RL 1107                                                                     
+   CA DCS Dorchester                          Dorchester                          ON  1-3--6-- RQ 0901      4259N 08104W                                                   
+   CA DHR Dorchester                          Dorchester                          NB  --3----- RL 0307      4610N 06434W                                                   
+   CA QCD Dorion                              Dorion                              QC  --3----- RL 1501      4523N 07401W                                                   
+   CA DOR Dorval                              Dorval                              QC  -234---- RQ 9501 YUL                                                                 
+   CA DXS Douglas                             Douglas                             ON  -----6-- RQ 0907      4530N 07656W                                                   
+   CA DGF Douglas Lake                        Douglas Lake                        BC  ---4---- AI 0001                                                                     
+   CA 6OD Douglas Point                       Douglas Point                       ON  --3----- RL 1501      4419N 08136W                                                   
+   CA DWG Dowling                             Dowling                             ON  --3----- RL 1207      4635N 08120W                                                   
+   CA DVW Downsview                           Downsview                           ON  --3----- RQ 9501                                                                     
+   CA DYT Drayton                             Drayton                             ON  --3----- RQ 0901      4345N 08040W                                                   
+   CA YDC Drayton Valley                      Drayton Valley                      AB  ---4---- AI 0002                                                                     
+   CA DRD Dresden                             Dresden                             ON  --3----- RL 0201      4235N 08210W                                                   
+   CA DRM Drumheller                          Drumheller                          AB  --3----- RL 0201      5127N 11242W                                                   
+   CA DMO Drummond                            Drummond                            NB  --3----- RL 0701      4702N 06741W                                                   
+   CA DRU Drummondville                       Drummondville                       QC  --3----- RQ 9501 XDM                                                                 
+   CA DRY Dryden                              Dryden                              ON  -234---- RL 0001 YHD                                                                 
+   CA DLN Dublin                              Dublin                              ON  123--6-- RL 0601      4330N 08117W                                                   
+   CA D8O Dubreuilville                       Dubreuilville                       ON  --3----- RL 1501      4821N 08433W                                                   
+   CA DES Duchess                             Duchess                             AB  --3----- RL 1407      5044N 11154W                                                   
+   CA DKL Duck Lake                           Duck Lake                           SK  --3----- RL 1201      5248N 10613W                                                   
+   CA DFL Duffield                            Duffield                            AB  --3--6-- RL 0607      5332N 11421W                                                   
+   CA DGD Dugald                              Dugald                              MB  --3----- RL 1307      4953N 09650W                                                   
+   CA DHO Duhamel-Ouest                       Duhamel-Ouest                       QC  --3----- RL 1107      4722N 07926W                                                   
+   CA DCN Duncan Bay                          Duncan Bay                          BC  --3----- RL 0201      5004N 12517W                                                   
+   CA DUQ Duncan/Quam                         Duncan/Quam                         BC  -234---- AI 0701      4847N 12343W                                                   
++  CA DUC Dunchurch                           Dunchurch                           ON  --3----- RL 1707      4539N 07951W                                                   
+   CA DNK Dundalk                             Dundalk                             ON  --3----- RQ 0901      4410N 08023W                                                   
+   CA DUD Dundas                              Dundas                              ON  --3----- RQ 9501                                                                     
+   CA DDN Dundurn                             Dundurn                             SK  --3----- RL 0201      5149N 10628W                                                   
+   CA GNX Dunganon                            Dunganon                            ON  --3----- RL 1501      4350N 08136W                                                   
+   CA DQQ Dunham                              Dunham                              QC  --3----- RL 1601      4508N 07247W                                                   
+   CA DHQ Dunman                              Dunman                              ON  --3----- RQ 0201      4410N 08048W                                                   
+   CA DNM Dunmore                             Dunmore                             AB  -23----- RL 0701      4958N 11035W                                                   
+   CA DUV Dunnville                           Dunnville                           ON  --3----- RL 1207      4254N 07937W                                                   
+   CA DRA Dunrea                              Dunrea                              MB  -23----- RL 0701      4925N 09944W                                                   
+   CA DOO Duntroon                            Duntroon                            ON  -----6-- RQ 1007      4438N 08018W                                                   
+   CA DUR Durham                              Durham                              ON  -23----- RL 0001                                                                     
+   CA DUO Dutton                              Dutton                              ON  --3----- RQ 0901      4239N 08130W                                                   
+   CA DYA Dysart                              Dysart                              SK  --3----- RL 1407      5056N 10402W                                                   
+   CA EFS Ear Falls                           Ear Falls                           ON  --3----- RL 1301      5038N 09313W                                                   
+   CA YXR Earlton                             Earlton                             ON  ---4---- AI 0002                                                                     
+   CA ETA East Angus                          East Angus                          QC  1234---- RL 0701      4529N 07140W                                                   
+   CA EBS East Broughton Station              East Broughton Station              QC  --3----- RL 1607      4613N 07105W                                                   
+   CA EG5 East Garafraxa                      East Garafraxa                      ON  --3----- RL 1501      4351N 08015W                                                   
+   CA GWY East Gwillimbury                    East Gwillimbury                    ON  -----6-- RL 0901      4412N 07943W                                                   
+   CA EHD East Hereford                       East Hereford                       QC  --3----- RL 1607      4505N 07130W                                                   
+   CA EKE East Kemptville                     East Kemptville                     NS  --3----- RL 0207      4405N 06546W                                                   
+   CA ZEM East Main                           East Main                           QC  ---4---- AI 0002                                                                     
+   CA ERV East River                          East River                          NS  --3----- RL 1401      4435N 06409W                                                   
+   CA EPL East Saint-Paul                     East Saint-Paul                     MB  --3--6-- RL 1101      4956N 09706W                                                   
+   CA EAS East York                           East York                           ON  --3----- RL 0201      4341N 07920W                                                   
+   CA EPG Eastern Passage                     Eastern Passage                     NS  --3----- RL 1401      4437N 06329W                                                   
+   CA EBZ Ebenezer                            Ebenezer                            PE  --3----- RL 1501      4621N 06315W                                                   
+   CA ECB Echo Bay                            Echo Bay                            ON  -2--5--- RL 1201      4629N 08404W                                                   
+   CA EKV Eckville                            Eckville                            AB  --3----- RL 0307      5221N 11422W                                                   
+   CA ECO Economy                             Economy                             NS  --3----- RL 0307      4523N 06355W                                                   
+   CA EDA Edam                                Edam                                SK  --3----- RL 1201      5311N 10846W                                                   
+   CA EDB Edberg                              Edberg                              AB  -----6-- RL 1401      5247N 11247E                                                   
+   CA EDM Edmonton                            Edmonton                            AB  ---4---- AI 9601 YEA                                                                 
+   CA YEG Edmonton Int Apt                    Edmonton Int Apt                    AB  ---4---- AI 0401      5318N 11334W                                                   
+   CA EDN Edmundston                          Edmundston                          NB  --3----- RL 0201      4722N 06819W                                                   
+   CA EDS Edson                               Edson                               AB  ---4---- RQ 9307 YET                                                                 
+   CA EDC Edwards Cove                        Edwards Cove                        NL  1------- RQ 0501      5650N 06230W                                                   
+   CA ESN Edwardsville                        Edwardsville                        NS  --3----- RL 1301      4610N 06014W                                                   
+   CA EGV Eganville                           Eganville                           ON  --3----- RL 1401      4532N 07706W                                                   
+   CA EGN Elgin                               Elgin                               NB  --3----- RL 0607      4548N 06507W                                                   
+   CA ELI Elie                                Elie                                MB  --3----- RL 0201      4955N 09745W                                                   
+   CA EZT Elizabethtown                       Elizabethtown                       ON  --3----- RL 0307      4440N 07548W                                                   
+   CA ELT Elk Point                           Elk Point                           AB  --3----- RL 1201      5354N 11054W                                                   
+   CA EKF Elkford                             Elkford                             BC  --3----- RL 0901      5001N 11455W                                                   
+   CA EHO Elkhorn                             Elkhorn                             MB  -23----- RL 0701      4958N 10114W                                                   
+   CA ELS Ellerslie                           Ellerslie                           PE  --3----- RL 0701      4636N 06356W                                                   
+   CA ELL Ellerslie/Edmonton                  Ellerslie/Edmonton                  AB  --3----- RL 0201      5325N 11330W                                                   
+   CA YEL Elliot Lake                         Elliot Lake                         ON  ---4---- AI 0002                                                                     
+   CA ECK Elm Creek                           Elm Creek                           MB  --3----- RL 1701      4940N 09800W                                                   
+   CA EML Elma                                Elma                                MB  --3----- RL 1407      4952N 09555W                                                   
+   CA ELM Elmira                              Elmira                              ON  -23----- RQ 9501                                                                     
+   CA EMR Elmira                              Elmira                              PE  -23--6-- RL 0607      4626N 06204W                                                   
+   CA ELE Elmsdale                            Elmsdale                            NS  --3----- RL 0207      4457N 06332W                                                   
+   CA EVV Elmvale                             Elmvale                             ON  -2------ RL 0101      4435N 07950W                                                   
+   CA EMD Elmwood                             Elmwood                             ON  --3----- RQ 9501                                                                     
+   CA ELO Elora                               Elora                               ON  -2------ RL 0101      4341N 08026W                                                   
+   CA OSE Elrose                              Elrose                              SK  --3--6-- RL 0901      5212N 10802W                                                   
+   CA EMB Embro                               Embro                               ON  --3----- RL 0307      4309N 08054W                                                   
+   CA EBU Embrun                              Embrun                              ON  --3----- RL 0307      4516N 07517W                                                   
+   CA XVX Emerald Park                        Emerald Park                        SK  1-3----- RL 1401      5044N 10438W                                                   
+   CA EME Emerson                             Emerson                             MB  -23----B RL 0701      4900N 09713W                                                   
+   CA EYV Emeryville                          Emeryville                          ON  -23--6-- RL 0607      4218N 08246W                                                   
+   CA EMO Emo                                 Emo                                 ON  -2------ RL 1301      4837N 09350W                                                   
+   CA EMP Empress                             Empress                             AB  --3--6-- RL 0501      5057N 11000W                                                   
++  CA DSS Emsdale                             Emsdale                             ON  --3----- RL 1707      4530N 07917W                                                   
+   CA END Endako                              Endako                              BC  123--6-- RL 0307      5405N 12501W                                                   
+   CA ENY Enderby                             Enderby                             BC  -23--6-- RL 0607      5033N 11909W                                                   
+   CA ENF Enfield                             Enfield                             NS  --3----- RL 0207      4456N 06332W                                                   
+   CA ENG Engelwood                           Engelwood                           BC  --3----- RL 0307      5033N 12653W                                                   
+   CA EGF Englefeld                           Englefeld                           SK  --3----- RL 0501      5210N 10439W                                                   
+   CA EGH Englehart                           Englehart                           ON  --3----- RL 1301      4749N 07952W                                                   
+   CA EBY English Bay                         English Bay                         BC  1-3----- RL 0901      4916N 12310W                                                   
+   CA ENN Enniskillen                         Enniskillen                         ON  --3----- RL 1501      4249N 08207W                                                   
+   CA ENT Entwistle                           Entwistle                           AB  -23----- RL 0507      5335N 11458W                                                   
+   CA EKO Erickson                            Erickson                            BC  -23--6-- RL 0607      4905N 11628W                                                   
+   CA ENE Erieau                              Erieau                              ON  1------- AS 0001                                                                     
+   CA ERI Erin                                Erin                                ON  --3----- RQ 9501                                                                     
+   CA EGT Errington                           Errington                           BC  --3----- RL 0701      4917N 12422W                                                   
+   CA EPA Espanola                            Espanola                            ON  --3----- RL 0207      4615N 08145W                                                   
+   CA ESQ Esquimalt                           Esquimalt                           BC  1------- AS 0001 YPF                                                                 
+   CA ESS Essex                               Essex                               ON  -23----- RL 0001                                                                     
+   CA EHZ Esterhazy                           Esterhazy                           SK  --3----- RL 1301      5039N 10205W                                                   
+   CA EZY Esterhazy                           Esterhazy                           SK  --3----- RL 1307      5039N 10205W                                                   
+   CA EST Estevan                             Estevan                             SK  --3----- RL 9901 YEN                                                                 
+   CA YEP Estevan Point                       Estevan Point                       BC  ---4---- AI 0002                                                                     
+   CA ETN Etang-du-Nord                       Etang-du-Nord                       QC  1----6-- RL 0901      4722N 06156W                                                   
+   CA ETL Ethel                               Ethel                               ON  --3----- RL 1407      4343N 08108W                                                   
+   CA ETH Ethelbert                           Ethelbert                           MB  --3----- RL 1401      5131N 10024W                                                   
+   CA ETC Etobicoke                           Etobicoke                           ON  --3----- RQ 9705                                                                     
+   CA ETZ Etzikom                             Etzikom                             AB  1----6-- RL 1407      4929N 11106W                                                   
+   CA EXX Exeter                              Exeter                              ON  --3----- RL 0307      4321N 08129W                                                   
+   CA EXS Exshaw                              Exshaw                              AB  -23----- RL 0401      5104N 11509W                                                   
+   CA FVL Fabreville                          Fabreville                          QC  --3----- RL 0307      4534N 07339W                                                   
+   CA FHS Fairmont Hot Springs                Fairmont Hot Springs                BC  --3----- RL 0901      5019N 11552W                                                   
+   CA YCZ Fairmount Springs                   Fairmount Springs                   BC  ---4---- AI 0002                                                                     
+   CA ZFW Fairview                            Fairview                            AB  ---4---- AI 0002                                                                     
+   CA FCB Falconbridge                        Falconbridge                        ON  -23----- RL 0207      4634N 08049W                                                   
+   CA YOE Falher                              Falher                              AB  ---4---- AI 0002                                                                     
+   CA FLA Falkland                            Falkland                            BC  -23----- RL 0701      5030N 11933W                                                   
+   CA FLR Fall River                          Fall River                          NS  1-3----- RL 0701      4449N 06337W                                                   
+   CA FAH Falmouth                            Falmouth                            NS  --3----- RL 0207      4500N 06410W                                                   
+   CA FYB Fanny Bay                           Fanny Bay                           BC  --3----- RQ 0901      4930N 12449W                                                   
+   CA FAR Farnham                             Farnham                             QC  -23----- RL 0407      4517N 07259W                                                   
+   CA FRN Farnham                             Farnham                             ON  --3----- RL 0407      4332N 08010W cf CA FAR                                         
+   CA ZFA Faro                                Faro                                YT  ---4---- AI 0002                                                                     
+   CA FSS Fassett                             Fassett                             QC  --3----- RL 1407      4539N 07452W                                                   
+   CA FAP Father Point                        Father Point                        QC  1------- RQ 9506                                                                     
+   CA FKR Faulkner                            Faulkner                            MB  --3----- RL 1207      5125N 09840W                                                   
++  CA FEF Fenelon Falls                       Fenelon Falls                       ON  --3----- RL 1707      4432N 07844W                                                   
+   CA FWC Fenwick                             Fenwick                             ON  --3----- RQ 9501                                                                     
+   CA FGS Fergus                              Fergus                                  --3----- RQ 9705                                                                     
+   CA FRG Fergus                              Fergus                              ON  --3----- RL 1607      4342N 08022W                                                   
+   CA FTO Ferintosh                           Ferintosh                           AB  -23----- RL 0701      5246N 11258W                                                   
+   CA FNV Ferme-Neuve                         Ferme-Neuve                         QC  --3----- RL 0212      4642N 07527W                                                   
+   CA FME Fermeuse                            Fermeuse                            NL  --3----- RL 0501      4658N 05258W                                                   
+   CA FMT Fermont                             Fermont                             QC  --3----- RL 1101      5247N 06705W                                                   
+   CA FNI Fernie                              Fernie                              BC  -23----- RL 0701      4931N 11504W                                                   
+   CA FFE Feversham                           Feversham                           ON  --3----- RL 0401      4420N 08022W                                                   
+   CA FMO Fillmore                            Fillmore                            SK  -23----- RL 0701      4953N 10326W                                                   
+   CA FIN Finch                               Finch                               ON  --3----- RL 1407      4508N 07505W                                                   
+   CA FGA Fingal                              Fingal                              ON  --3----- RQ 0901      4243N 08118W                                                   
+   CA FIB Fisher Branch                       Fisher Branch                       MB  --3----- RL 0207      5105N 09737W                                                   
+   CA FLT Flat Rock                           Flat Rock                           NL  --3----- RL 1601      4743N 05243W                                                   
+   CA YFO Flin Flon                           Flin Flon                           MB  ---4---- AI 0002                                                                     
+   CA FDL Floradale                           Floradale                           ON  --3----- RL 1107      4337N 08035W                                                   
+   CA XFL Florence                            Florence                            ON  --3----- RL 0207      4234N 08159W                                                   
+   CA FLV Florenceville                       Florenceville                       NB  --3----- RQ 9501                                                                     
+   CA OLK Foam Lake                           Foam Lake                           SK  --3----- RL 1601      5139N 10332W                                                   
+   CA FOG Fogo                                Fogo                                NL  1------- AS 0501      4943N 05417W                                                   
+   CA FYT Foleyet                             Foleyet                             ON  --3----- RL 1301      4815N 08226W                                                   
+   CA ZFD Fond du Lac                         Fond du Lac                         SK  ---4---- AI 0002                                                                     
+   CA YFG Fontanges                           Fontanges                           QC  ---4---- AI 0002                                                                     
+   CA FTH Fonthill                            Fonthill                            ON  --3----- RL 1401      4302N 07917W                                                   
+   CA FWI Fordwich                            Fordwich                            ON  --3----- RQ 0901      4352N 08101W                                                   
+   CA FOM Foremost                            Foremost                            AB  -23----- RL 0701      4929N 11126E                                                   
+   CA ZFT Forest                              Forest                              ON  123--6-- RL 0307      4306N 08200W                                                   
+   CA FBG Forestburg                          Forestburg                          AB  -23----- RL 0207      5235N 11204W                                                   
+   CA FFL Foresters Falls                     Foresters Falls                     ON  --3----- RL 1301      4540N 07647W                                                   
+   CA FRV Forestville                         Forestville                         QC  1------- AS 9905 YFE                                                                 
+   CA FMS Formosa                             Formosa                             ON  --3----- RQ 0901      4404N 08112W                                                   
+   CA FAL Fort Albany                         Fort Albany                         ON  1------- AI 0001 YFA                                                                 
+   CA YPY Fort Chipewyan                      Fort Chipewyan                      AB  ---4---- AI 0002                                                                     
+   CA FCO Fort Coulonge                       Fort Coulonge                       QC  --3----- RL 0207      4550N 07644W                                                   
+   CA FER Fort Erie                           Fort Erie                           ON  --3----- RQ 9501                                                                     
+   CA FFS Fort Frances                        Fort Frances                        ON  12-4---- AC 0001 YAG  4836N 09324W                                                   
+   CA FKN Fort Franklin                       Fort Franklin                       NT  1-3--6-- RL 0307      6511N 12325W                                                   
+   CA YGH Fort Good Hope                      Fort Good Hope                      NT  ---4---- AI 0002                                                                     
+   CA YFH Fort Hope                           Fort Hope                           ON  ---4---- AI 0002                                                                     
+   CA FLY Fort Langley                        Fort Langley                        BC  1-3----- RL 1407      4910N 12234W                                                   
+   CA YJF Fort Liard                          Fort Liard                          NT  ---4---- AI 0002                                                                     
+   CA FMA Fort MacKay                         Fort MacKay                         AB  1-3----- RL 0601      5711N 11138W                                                   
+   CA FMC Fort Macleod                        Fort Macleod                        AB  --3----- RL 0212      4943N 11324W                                                   
+   CA YMM Fort McMurray                       Fort McMurray                       AB  ---4---- AI 0212      5644N 11123W                                                   
+   CA ZFM Fort McPherson                      Fort McPherson                      NT  ---4---- AI 0212      6726N 13452W                                                   
+   CA FNE Fort Nelson                         Fort Nelson                         BC  --34---- RL 9901 YYE                                                                 
+   CA FPR Fort Providence                     Fort Providence                     NT  --3----- RL 0607      6120N 11738W                                                   
+   CA FQP Fort Qu'Appelle                     Fort Qu'Appelle                     SK  -23----- RL 0701      5046N 10347W                                                   
+   CA YFL Fort Reliance                       Fort Reliance                       NT  ---4---- AI 0002                                                                     
+   CA YFR Fort Resolution                     Fort Resolution                     NT  ---4---- AI 0002                                                                     
+   CA FSK Fort Saskatchewan                   Fort Saskatchewan                   AB  -23----- RL 0106      5342N 11312W                                                   
+   CA YER Fort Severn                         Fort Severn                         ON  ---4---- AI 0002                                                                     
+   CA FSI Fort Simpson                        Fort Simpson                        NT  1--4---- AI 0001 YFS                                                                 
+   CA FSM Fort Smith                          Fort Smith                          NT  1--4---- AI 0001 YSM                                                                 
+   CA FST Fort Steele                         Fort Steele                         BC  --3----- RL 0901      4937N 11538W                                                   
+   CA FVE Fort Vermilion                      Fort Vermilion                      AB  --3----- RL 0607      5824N 11600W                                                   
+   CA WAR Fort Ware                           Fort Ware                           BC  --3----- RL 0607      5726N 12538W                                                   
+   CA FWL Fort William                        Fort William                        ON  1-3--6-- RL 0307      4824N 08914W                                                   
+   CA Q9Q Fortierville                        Fortierville                        QC  --3----- RL 1601      4629N 07202W                                                   
+   CA SJA Fort-Saint-James                    Fort-Saint-James                    BC  --3----- RL 1101                                                                     
+   CA FSJ Fort-Saint-John                     Fort-Saint-John                     BC  --34---- AS 1207 YXJ  5615N 12050W                                                   
+   CA FOR Fortune                             Fortune                             NL  1-3----- AS 0501      4704N 05550W                                                   
+   CA FOS Fosterville                         Fosterville                         NB  --3----- RL 1601      4548N 06745W                                                   
+   CA FNR Fournier                            Fournier                            ON  --3----- RL 1401      4521N 07502W                                                   
+   CA FXC Fox Creek                           Fox Creek                           AB  --3----- RL 0701      5424N 11649W                                                   
+   CA YFX Fox Harbour (St Lewis)              Fox Harbour (St Lewis)              NL  ---4---- AI 0501                                                                     
+   CA FLK Fox Lake                            Fox Lake                            AB  --3----- RL 0607      5828N 11431W                                                   
+   CA QCF Fox River (=riviere-Au-Renard)      Fox River (=riviere-Au-Renard)      QC  --3--6-- RL 0901      4858N 06422W                                                   
+   CA FXO Foxboro                             Foxboro                             ON  --3--6-- RL 0607      4415N 07726W                                                   
+   CA FOX Foxley River                        Foxley River                        PE  --3----- RL 0207      4632N 06401W                                                   
+   CA FPT Frampton                            Frampton                            QC  --3----- RL 1301      4628N 07048W                                                   
++  CA FCS Francis                             Francis                             SK  --3----- RL 1707      5006N 10352W                                                   
+   CA FRL François Lake                       Francois Lake                       BC  --3----- RL 0401      5403N 12545W                                                   
+   CA FKO Frankford                           Frankford                           ON  -23----- RL 0607      4412N 07735W                                                   
+   CA JFK Franklin Centre                     Franklin Centre                     QC  --3----- RL 1301      4502N 07355W                                                   
+   CA FRM Fraser                              Fraser                              BC  --3----- RL 0307      4937N 11659W                                                   
+   CA FRA Fraser Mills                        Fraser Mills                        BC  --3----- RL 0207      4914N 12251W                                                   
+   CA FRR Fraser River                        Fraser River                        BC  1------- AS 0001                                                                     
+   CA FWS Fraser Wharves                      Fraser Wharves                      BC  1-3----- RL 0901      5058N 11912W                                                   
+   CA FSD Fraser-Surrey Docks                 Fraser-Surrey Docks                 BC  1-3----- RL 0901      4907N 12244W                                                   
+   CA FRE Fredericton                         Fredericton                         NB  1234---- AS 9905 YFC  4557N 06639W                                                   
+   CA FRT Freelton                            Freelton                            ON  --3----- RL 0407      4324N 08002W                                                   
+   CA FTW Freetown                            Freetown                            PE  --3----- RL 1201      4622N 06337W                                                   
+   CA FGH Frelighsburg                        Frelighsburg                        QC  --3----- RL 0207      4503N 07250W                                                   
+   CA FWP Freshwater                          Freshwater                          NL  --3----- RL 1301      4745N 05312W                                                   
+   CA YFB Frobisher Bay Apt                   Frobisher Bay Apt                   NT  ---4---- AI 9601                                                                     
+   CA FRO Frontier                            Frontier                            SK  --3----- RQ 0001                                                                     
+   CA FRU Fruitvale                           Fruitvale                           BC  --3----- RL 1301      4907N 11733W                                                   
+   CA GHS Gads Hill Station                   Gads Hill Station                   ON  --3----- RQ 1001      4326N 08055W                                                   
+   CA YCX Gagetown                            Gagetown                            NB  ---4---- AI 0002                                                                     
+   CA YGA Gagnon                              Gagnon                              QC  ---4---- AI 0002                                                                     
+   CA GLT Galt                                Galt                                ON  1-3----- RL 0307      4321N 08018W                                                   
+   CA GNE Gananoque                           Gananoque                           ON  --3----- RL 1007      4420N 07610W                                                   
+   CA GAN Gander                              Gander                              NL  1-34---- AS 0501 YQX  4857N 05433W                                                   
+   CA GGS Ganges                              Ganges                              BC  1------- AS 0001 YGG                                                                 
+   CA GDV Gardenville                         Gardenville                         ON  --3----- RL 0307      4402N 07735W                                                   
+   CA GAR Garson                              Garson                              ON  --3----- RL 0701      4633N 08052W                                                   
+   CA GPE Gaspé                               Gaspe                               QC  1--4---- AS 0212 YGP  4850N 06429W                                                   
+   CA GAX Gaspereaux                          Gaspereaux                          PE  --3----- RL 0207      4606N 06228W                                                   
+   CA GAT Gatineau                            Gatineau                            QC  -23----- RL 0101      4529N 07542W                                                   
+   CA GEM Gem                                 Gem                                 AB  -23----- RL 0701      5057N 11211W                                                   
+   CA GEO Georgetown                          Georgetown                          PE  --3----- RL 0207 XHM  4611N 06232W                                                   
+   CA GGW Georgetown                          Georgetown                          ON  -2-4---- AS 9905 XHM  4339N 07955W                                                   
+   CA GIA Georgian Bluff                      Georgian Bluff                      ON  --3----- RL 1601      4439N 08100W                                                   
++  CA GBF Georgian Bluffs                     Georgian Bluffs                     ON  --3----- RL 1707      4437N 08102W                                                   
+   CA GLD Gerald                              Gerald                              SK  --3----- RL 0501      5040N 10148W                                                   
+   CA YGQ Geraldton                           Geraldton                           ON  ---4---- AI 0002                                                                     
+   CA YGS Germansen                           Germansen                           BC  ---4---- AI 0002                                                                     
+   CA ZGS Gethsémani                          Gethsemani                          QC  ---4---- AI 0212      5013N 06043W                                                   
+   CA GBO Gibbons                             Gibbons                             AB  -23----- RL 0701      5349N 11320W                                                   
+   CA GIB Gibsons                             Gibsons                             BC  --3----- RL 1207      4924N 12330W                                                   
+   CA GPS Gilbert Plains                      Gilbert Plains                      MB  --3----- RL 1501      5109N 10029W                                                   
+   CA YGX Gillam                              Gillam                              MB  ---4---- AI 0002                                                                     
+   CA YGB Gillies Bay                         Gillies Bay                         BC  ---4---- AI 0002                                                                     
+   CA YGM Gimli                               Gimli                               MB  ---4---- AI 0002                                                                     
+   CA G3S Gipsons                             Gipsons                             BC  --3----- RL 1601      4924N 12330W                                                   
+   CA GQC Girardville                         Girardville                         QC  --3----- RL 1701      4900N 07233W                                                   
+   CA GXI Girouxville                         Girouxville                         AB  -23--6-- RL 0607      5545N 11720W                                                   
+   CA YHK Gjoa Haven                          Gjoa Haven                          NU  1--4---- AI 0212      6837N 09550W                                                   
+   CA GLB Glace Bay                           Glace Bay                           NS  1------- RL 0001      4612N 05958W                                                   
+   CA GHU Glen Huron                          Glen Huron                          ON  --3----- RL 0501      4421N 08011W                                                   
++  CA GMT Glen Margaret                       Glen Margaret                       NS  --3----- RL 1707      4434N 06354W                                                   
+   CA GMO Glen Morris                         Glen Morris                         ON  --3--6-- RL 0607      4316N 08021W                                                   
+   CA GBU Glenbush                            Glenbush                            SK  -23----- RL 0701      5316N 10800W                                                   
+   CA GLE Glencoe                             Glencoe                             ON  --3----- RL 0507      4245N 08143W                                                   
+   CA GNO Glendon                             Glendon                             AB  -23----- RL 0701      5415N 11109W                                                   
+   CA NS7 Glenville                           Glenville                           NS  --3----- RL 1601      4609N 06119W                                                   
+   CA GNW Glenwood                            Glenwood                            NS  --3----- RL 1701      4347N 06552W                                                   
+   CA GWD Glenwood                            Glenwood                            AB  -23----- RL 0701      4922N 11331W                                                   
+   CA GCR Gloucester                          Gloucester                          ON  --3----- RQ 0101                                                                     
+   CA GVN Glovertown                          Glovertown                          NL  --3----- RL 0601      4841N 05402W                                                   
+   CA GBT Godbout                             Godbout                             QC  1-3----- AS 9905                                                                     
+   CA GOH Goderich                            Goderich                            ON  1------- AS 9905                                                                     
+   CA YGO Gods Narrows                        Gods Narrows                        MB  ---4---- AI 0002                                                                     
+   CA ZGI Gods River                          Gods River                          MB  ---4---- AI 0002                                                                     
+   CA GOF Goffs                               Goffs                               NS  --3----- RL 1207      4452N 06329W                                                   
+   CA GOL Gold River                          Gold River                          NS  --3----- RL 0207      4432N 06419W                                                   
+   CA GOR Gold River                          Gold River                          BC  1------- AS 0001                                                                     
+   CA GBR Goldboro                            Goldboro                            NS  --3----- RL 1601      4511N 06139W                                                   
+   CA GDN Golden                              Golden                              BC  --3----- RQ 0101                                                                     
+   CA GDW Goodwood                            Goodwood                            ON  --3----- RQ 9501                                                                     
+   CA GW2 Goodwood                            Goodwood                            NS  --3----- RL 1607      4437N 06340W                                                   
+   CA GOO Goose Bay                           Goose Bay                           NL  1--4---- AS 0501 YYR  5324N 06010W                                                   
+   CA YZE Gore Bay                            Gore Bay                            ON  ---4---- AI 0002                                                                     
+   CA YGE Gorge Harbor                        Gorge Harbor                        BC  ---4---- AI 0002                                                                     
+   CA GMY Gormley                             Gormley                             ON  -23----- RL 0607      4356N 07923W                                                   
+   CA GRR Gorrie                              Gorrie                              ON  -23----- RL 0701      4352N 08107W                                                   
+   CA GWS Gowanstown                          Gowanstown                          ON  --3----- RL 0901      4346N 08055W                                                   
+   CA GFT Grafton                             Grafton                             ON  --3----- RL 1401      4359N 07801W                                                   
+   CA GRA Granby                              Granby                              QC  -23----- RQ 9307                                                                     
+   CA GRB Grand Bank                          Grand Bank                          NL  1-3----- AS 0501      4706N 05547W                                                   
+   CA GJI Grand Bend                          Grand Bend                          ON  --3----- RL 9805                                                                     
+   CA GRF Grand Falls                         Grand Falls                         NB  -23----- RL 0607      4703N 06744W                                                   
+   CA GFA Grand Falls-Windsor                 Grand Falls-Windsor                 NL  --3----- RL 0501      4856N 05540W                                                   
+   CA ZGF Grand Forks                         Grand Forks                         BC  ---4---- AI 0002                                                                     
+   CA GMA Grand Manan                         Grand Manan                         NB  1-3----- AS 0207      4442N 06648W                                                   
+   CA QGM Grand Mere                          Grand Mere                          QC  -----6-- RL 0901      4637N 07241W                                                   
+   CA 4NG Grand Pre                           Grand Pre                           NS  --3----- RL 1501      4506N 06417W                                                   
+   CA GDR Grand River                         Grand River                         NS  --3----- RL 1501      4538N 06040W                                                   
+   CA GTD Grand Toys Dorval                   Grand Toys Dorval                   QC  0------- RQ 9307                                                                     
+   CA GRV Grand Valley                        Grand Valley                        ON  --3----- RL 0307      4354N 08019W                                                   
+   CA GVI Grand View                          Grand View                          MB  --3----- RL 0501      5110N 10041W                                                   
+   CA GAE Grande Anse                         Grande Anse                         NB  --3----- RL 0207      4748N 06511W                                                   
+   CA YGC Grande Cache                        Grande Cache                        AB  ---4---- AI 0002                                                                     
+   CA RPE Grande Pointe                       Grande Pointe                       MB  -----6-- RL 0901      4946N 09726E                                                   
+   CA YQU Grande Prairie                      Grande Prairie                      AB  ---4---- AI 0002                                                                     
+   CA GEE Grande Riviere                      Grande Riviere                      QC  -----6-- RQ 1007      4823N 06430W                                                   
+   CA EDI Grande-Digue                        Grande-Digue                        NB  1-3----- RL 0601      4617N 06433W                                                   
+   CA GPL Grandes-Piles                       Grandes-Piles                       QC  --3----- RL 1601      4641N 07243W                                                   
+   CA GVA Grande-Vallée                       Grande-Vallee                       QC  --3----- RL 1207      4913N 06508W                                                   
+   CA GRM Grand-Mere                          Grand-Mere                          QC  --3----- RL 0607      4638N 07241W                                                   
+   CA GSU Grand-Sault                         Grand-Sault                         NB  -----6-- RL 1301      4703N 06744W                                                   
+   CA GRN Granton                             Granton                             NS  --3----- RL 0207      4537N 06244W                                                   
+   CA GRU Granum                              Granum                              AB  -23----- RL 0701      4952N 11331W                                                   
++  CA GFF Granville Ferry                     Granville Ferry                     NS  --3----- RL 1707      4445N 06530W                                                   
+   CA GAI Grassie                             Grassie                             ON  --3----- RL 1307      4309N 07936W                                                   
+   CA GRD Grassland                           Grassland                           AB  --3----- RQ 0901      5449N 11240W                                                   
+   CA GLK Grassy Lake                         Grassy Lake                         AB  -23--6-- RL 0607      4949N 11142W                                                   
+   CA GBG Gravelbourg                         Gravelbourg                         SK  -23----- RL 0701      4952N 10633W                                                   
+   CA GVH Gravenhurst                         Gravenhurst                         ON  --3----- RL 1401      4455N 07922W                                                   
+   CA DAS Great Bear Lake                     Great Bear Lake                     NT  ---4---- AI 0001                                                                     
++  CA GOS Green Oaks                          Green Oaks                          NS  --3----- RL 1707      4515N 06326W                                                   
+   CA GFL Greenfield                          Greenfield                          NS  --3----- RL 0701      4522N 06308W                                                   
+   CA GRE Greenfield Park                     Greenfield Park                     QC  --3----- RL 0001                                                                     
+   CA YGN Greenway Sound                      Greenway Sound                      BC  ---4---- AI 0002                                                                     
+   CA YZX Greenwood                           Greenwood                           NS  ---4---- AI 0002                                                                     
+   CA GNF Grenfell                            Grenfell                            SK  -23----- RL 0101      5024N 10255W                                                   
+   CA GRZ Grenville                           Grenville                           QC  --3----- RL 0501      4538N 07436W                                                   
+   CA GRT Gretna                              Gretna                              MB  -2------ RL 1301      4900N 09733W                                                   
+   CA XGY Grimsby                             Grimsby                             ON  -234---- RL 0607      4311N 07934W                                                   
+   CA GSA Grimshaw                            Grimshaw                            AB  -23----- RL 0701      5612N 11736W                                                   
+   CA GDO Grindrod                            Grindrod                            BC  -23----- RL 0701      5038N 11907W                                                   
+   CA GRS Grindstone                          Grindstone                          QC  1------- AS 0001                                                                     
+   CA YGZ Grise Fiord                         Grise Fiord                         NU  1--4---- AI 0212      7625N 08257W                                                   
+   CA GOI Grondines                           Grondines                           QC  --3----- RL 1207      4635N 07202W                                                   
+   CA GCA Gros Cacouna                        Gros Cacouna                        QC  1------- AS 9905                                                                     
+   CA GRI Grosse Isle                         Grosse Isle                         MB  --3----- RL 0901      5004N 09227W                                                   
+   CA QEE Grosse Isle                         Grosse Isle                         QC  -----6-- RL 1401      4702N 07040W                                                   
+   CA GRO Grouse Mountain                     Grouse Mountain                     BC  --3----- RL 0207      4942N 12305W                                                   
+   CA GTH Grunthal                            Grunthal                            MB  --3----- RL 0701      4925N 09652W                                                   
+   CA GLP Guelph                              Guelph                              ON  -23----- RQ 9705 XIA                                                                 
++  CA SKG Guernsey                            Guernsey                            SK  --3----- RL 1707      5152N 10511W                                                   
+   CA GLL Gull Lake                           Gull Lake                           SK  -23----- RL 0207      5006N 10829W                                                   
+   CA GTN Gunton                              Gunton                              MB  -23----- RL 0701      5019N 09716W                                                   
+   CA GUY Guy                                 Guy                                 AB  -----6-- RL 1201      5532N 11707W                                                   
+   CA GYB Guysborough                         Guysborough                         NS  --3----- RQ 9501                                                                     
+   CA HCC Hacketts Cove                       Hacketts Cove                       NS  1-3----- RL 0701      4434N 06356W                                                   
+   CA HHV Hadashville                         Hadashville                         MB  -23----- RL 0701      4941N 09555W                                                   
+   CA HGS Hagersville                         Hagersville                         ON  --3----- RQ 9501                                                                     
+   CA HAG Hague                               Hague                               SK  -23----- RL 0601      5230N 10625W                                                   
+   CA EYL Haileybury                          Haileybury                          ON  --3----- RL 0307      4726N 07938W                                                   
+   CA HJU Haines Junction                     Haines Junction                     YT  --34---- RL 9901 YHT                                                                 
+   CA HHL Hairy Hill                          Hairy Hill                          AB  --3----- RL 1301      5345N 11158W                                                   
+   CA YHC Hakai Pass                          Hakai Pass                          BC  ---4---- AI 0002                                                                     
+   CA HBD Halbstadt                           Halbstadt                           MB  --3----- RL 0901      4900N 09720W                                                   
+   CA HSN Haley Station                       Haley Station                       ON  --3----- RQ 0901                                                                     
+   CA HFB Halfmoon Bay                        Halfmoon Bay                        BC  --3----- RL 1401      4931N 12355W                                                   
+   CA HBT Haliburton                          Haliburton                          ON  --3----- RL 0201      4503N 07831W                                                   
+   CA HAL Halifax                             Halifax                             NS  1--4---- AS 9905 YHC                                                                 
+   CA YHZ Halifax Apt                         Halifax Apt                         NS  ---45--- AI 8103                   IMPC                                              
+   CA HAB Hall Beach                          Hall Beach                          NU  1------- AS 0001 YUX                                                                 
+   CA HLB Hallebourg                          Hallebourg                          ON  --3----- RQ 1001      4940N 08331W                                                   
+   CA H8O Hallowell                           Hallowell                           ON  --3----- RL 1501      4400N 07714W                                                   
+   CA OON Halton Hills                        Halton Hills                        ON  1----6-- RL 1201      4337N 07957W                                                   
+   CA HMN Ham Nord                            Ham Nord                            QC  --3----- RL 1601      4554N 07139W                                                   
+   CA HAM Hamilton                            Hamilton                            ON  1--4---- AS 9905 YHM                                                                 
+   CA YHM Hamilton Apt                        Hamilton Apt                        ON  ---45--- AI 9601                   IMPC                                              
+   CA HMA Hamiota                             Hamiota                             MB  -23----- RL 0701      5010N 10036W                                                   
+   CA HMP Hampden                             Hampden                             NL  1-3----- RL 0501      4932N 05652W                                                   
+   CA HAN Haney                               Haney                               BC  --3----- RL 0901      4913N 12236W                                                   
+   CA HMR Hanmer                              Hanmer                              ON  --3----- RL 1107      4639N 08056W                                                   
+   CA HNA Hanna                               Hanna                               AB  -23----- RL 0701      5139N 11155W                                                   
+   CA HNO Hannon                              Hannon                              ON  --3----- RL 1401      4311N 07949W                                                   
+   CA HHH Hanover                             Hanover                             MB  --3----- RL 1407      4926N 09650W                                                   
+   CA HVR Hanover                             Hanover                             ON  123----- RL 0601      4408N 08101W                                                   
+   CA HHB Hants Harbour                       Hants Harbour                       NL  1-3----- RL 0701      4801N 05316W                                                   
+   CA HPT Hantsport                           Hantsport                           NS  1------- AS 9905                                                                     
+¦  CA HWL Hanwell                             Hanwell                             NB  --3----- RL 1707      4552N 06647W @Sta@Coo                                          
+   CA HBR Harbour Breton                      Harbour Breton                      NL  1-3----- RL 0501      4729N 05550W                                                   
+   CA HRE Harbour Grace                       Harbour Grace                       NL  1-3----- AS 0501      4741N 05315W                                                   
+   CA HCT Harcourt                            Harcourt                            ON  --3----- RL 0207      4505N 07809W                                                   
+   CA HDY Hardisty                            Hardisty                            AB  -23----- RL 0701      5240N 11118W                                                   
+   CA HLD Hardwood Lands                      Hardwood Lands                      NS  --3----- RL 1307      4502N 06330W                                                   
+   CA HYY Harley                              Harley                              ON  --3----- RQ 0201      4304N 08030W                                                   
+   CA HMC Harmac                              Harmac                              BC  --3----- RL 0201      4908N 12351W                                                   
++  CA HCA Harmony                             Harmony                             NS  --3----- RL 1707      4520N 06312W                                                   
+   CA HAR Harriet Harbour                     Harriet Harbour                     BC  1-3----- RL 0701      5218N 13124W                                                   
++  CA RRH Harrietsfield                       Harrietsfield                       NS  --3----- RL 1707      4434N 06338W                                                   
++  CA HMI Harrison Mills                      Harrison Mills                      BC  --3----- RL 1707      4915N 12157W                                                   
+   CA HRR Harriston                           Harriston                           ON  --3----- RL 9805                                                                     
+   CA HRG Harrogate                           Harrogate                           BC  -23----- RL 0701      5059N 11626W                                                   
+   CA HRW Harrow                              Harrow                              ON  --3----- RL 0201      4202N 08256W                                                   
+   CA HGT Hartington                          Hartington                          ON  --3--6-- RL 0607      4426N 07640W                                                   
+   CA HTD Hartland                            Hartland                            NB  -23----- RL 0207      4617N 06731W                                                   
+   CA YTB Hartley Bay                         Hartley Bay                         BC  ---4---- AI 0002                                                                     
+   CA TYR Harty                               Harty                               ON  --3----- RL 0307      4928N 08241W                                                   
+   CA HRV Harvey Station                      Harvey Station                      NB  -23----- RL 0601      4543N 06700W                                                   
+   CA HON Harwood                             Harwood                             ON  1-3----- RL 1401      4408N 07811W                                                   
+   CA TIN Hastings                            Hastings                            ON  --3----- RL 0401      4418N 07757W                                                   
+   CA HAT Hatch Point                         Hatch Point                         BC  --3----- RL 0701      4841N 12332W                                                   
+   CA HCK Hatchet Lake                        Hatchet Lake                        NS  --34---- RL 0207 YDJ  4435N 06341W                                                   
+   CA YDJ Hatchet Lake                        Hatchet Lake                        SK  ---4---- AI 0002                                                                     
+   CA HDP Hatfield Point                      Hatfield Point                      NB  --3----- RL 1407      4539N 06551W                                                   
+   CA HAV Havelock                            Havelock                            NB  --3----- RL 0207      4559N 06519W                                                   
+   CA HVL Havelock                            Havelock                            ON  -2------ RL 1301      4426N 07753W                                                   
+   CA HBC Havre Boucher                       Havre Boucher                       NS  --3----- RL 0901      4539N 06131W                                                   
+   CA HSP Havre-Saint-Pierre                  Havre-Saint-Pierre                  QC  1--4---- AS 1101 YGV                                                                 
+   CA HAW Hawkesbury                          Hawkesbury                          ON  -23----- RL 0001                                                                     
+   CA HWK Hawkestone                          Hawkestone                          ON  --3----- RL 1207      4430N 07928W                                                   
++  CA HAK Hawkesville                         Hawkesville                         ON  --3----- RL 1707      4333N 08038W                                                   
+   CA YHY Hay River                           Hay River                           NT  ---4---- AI 0002                                                                     
+   CA HCZ Head of Chezzetcook                 Head of Chezzetcook                 NS  --3----- RL 1207      4445N 06314W                                                   
+   CA JEJ Head of Jeddore                     Head of Jeddore                     NS  --3----- RL 0507      4447N 06304W                                                   
+   CA HDL Headingley                          Headingley                          MB  --3----- RL 0901      4952N 09724W                                                   
+   CA YHF Hearst                              Hearst                              ON  ---4---- AI 0002                                                                     
+   CA HBV Hebbville                           Hebbville                           NS  0------- RQ 9307                                                                     
+   CA HEB Hébertville                         Hebertville                         QC  1-3----- RL 0601      4823N 07141W                                                   
+   CA HDB Heidelberg                          Heidelberg                          ON  --3----- RL 1301      4333N 08043W                                                   
+   CA HMM Hemmingford                         Hemmingford                         QC  1----6-- RL 0901      4503N 07336W                                                   
+   CA HLV Henryville                          Henryville                          QC  --3----- RL 1301      4508N 07311W                                                   
+   CA HEL Hensall                             Hensall                             ON  --3----- RL 0207      4326N 08132W                                                   
++  CA BYE Heriot Bay                          Heriot Bay                          BC  --3----- RL 1707      5006N 12512W                                                   
+   CA HEP Heritage Pointe                     Heritage Pointe                     AB  --3----- RL 1701      5050N 11400W                                                   
+   CA HBY Heron Bay                           Heron Bay                           ON  --3----- RL 1207      4839N 08617W                                                   
+   CA HLI Herschel Island                     Herschel Island                     YT  1------- RL 0901      6934N 13904W                                                   
+   CA HIB Hibernia                            Hibernia                            NS  1-3----- AS 0501      4420N 06459W                                                   
+   CA HKS Hickson                             Hickson                             ON  --3----- RL 0501      4314N 08048W                                                   
+   CA HBL High Bluff                          High Bluff                          MB  --3----- RL 0901      5001N 09808W                                                   
+   CA YOJ High Level                          High Level                          AB  ---4---- AI 0002                                                                     
+   CA ZHP High Prairie                        High Prairie                        AB  ---4---- AI 0002                                                                     
+   CA HRI High River                          High River                          AB  --3----- RL 0207      5034N 11352W                                                   
+   CA HID Hilda                               Hilda                               AB  1-3----- RQ 0901                                                                     
+   CA HIL Hillsborough                        Hillsborough                        NB  --3----- RL 0401      4555N 06439W                                                   
+   CA HBG Hillsburgh                          Hillsburgh                          ON  --3----- RQ 0901                                                                     
+   CA HLS Hillsdale                           Hillsdale                           ON  --3----- RL 1501      4434N 07944W                                                   
+   CA HBK Hinchinbrooke                       Hinchinbrooke                       QC  --3----- RL 1307      4503N 07406W                                                   
+   CA HNT Hinton                              Hinton                              AB  --3----- RL 0501      5324N 11735W                                                   
+   CA HGV Hodgeville                          Hodgeville                          SK  -23----- RL 0701      5006N 10657W                                                   
+   CA HCE Holland Center                      Holland Center                      ON  -----6-- RQ 1001      4423N 08047W                                                   
++  CA HHC Holland Centre                      Holland Centre                      ON  --3----- RL 1707      4423N 08052W                                                   
+   CA HLL Holland Landing                     Holland Landing                     ON  --3----- RL 0207      4406N 07929W                                                   
+   CA YHI Holman                              Holman                              NT  ---4---- AI 0002                                                                     
+   CA HST Holstein                            Holstein                            ON  --3----- RQ 0901                                                                     
+   CA HOD Holyrood                            Holyrood                            NL  1-3----- AS 0501      4723N 05308W                                                   
+   CA HYO Holyrood                            Holyrood                            ON  --3----- RQ 0901                                                                     
+   CA HNH Honey Harbour                       Honey Harbour                       ON  --3----- RL 1107      4452N 07949W                                                   
++  CA HOF Honfleur                            Honfleur                            QC  --3----- RL 1707      4639N 07053W                                                   
+   CA YHE Hope                                Hope                                BC  ---4---- AI 0002                                                                     
+   CA HOP Hopedale                            Hopedale                            NL  1-34---- AI 0501 YHO  5527N 06013W                                                   
+   CA HOR Hornby                              Hornby                              ON  -23----- RL 0001                                                                     
+   CA YHN Hornepayne                          Hornepayne                          ON  ---4---- AI 0002                                                                     
+   CA HRF Horsefly                            Horsefly                            BC  1-3----- RL 0601      5220N 12125W                                                   
+   CA HWS Howe Sound                          Howe Sound                          BC  1------- AS 0001                                                                     
+   CA HUD Hudson                              Hudson                              QC  --3----- RL 0207      4526N 07406W                                                   
+   CA YHB Hudson Bay                          Hudson Bay                          SK  ---4---- AI 0002                                                                     
+   CA YNH Hudson Hope                         Hudson Hope                         BC  ---4---- AI 0002                                                                     
+   CA HUL Hull                                Hull                                QC  --3----- RL 0307      4526N 07544W                                                   
+   CA HMO Humboldt                            Humboldt                            SK  -23----- RL 0701      5212N 10507W                                                   
+   CA HUR Hunter River                        Hunter River                        PE  --3----- RL 0207      4621N 06321W                                                   
+   CA HDN Huntingdon                          Huntingdon                          QC  --3----- RL 0207      4505N 07410W                                                   
+   CA HUN Huntsville                          Huntsville                          ON  --3----- RL 9805                                                                     
+   CA HUP Huron Park                          Huron Park                          ON  --3----- RL 0407      4317N 08129W                                                   
+   CA HYE Hythe                               Hythe                               AB  -23----- RL 0701      5520N 11933W                                                   
+   CA IBV Iberville                           Iberville                           QC  --3----- RN 9811                                                                     
+   CA IGL Igloolik                            Igloolik                            NU  1--4---- AS 0212 YGT  6922N 08149W                                                   
+   CA ZUC Ignace                              Ignace                              ON  ---4---- AI 0002                                                                     
+   CA IDO Ilderton                            Ilderton                            ON  --3----- RQ 0901                                                                     
+   CA IXC Ile Aux Coudres                     Ile Aux Coudres                     QC  --3----- RL 0307      4725N 07025W                                                   
+   CA BZD Ile Bizard                          Ile Bizard                          QC  --3----- RL 1207      4529N 07354W                                                   
+   CA IDC Ile des Chênes                      Ile des Chenes                      MB  --3----- RL 1101      4942N 09659W                                                   
+   CA IPE Ile Perrot                          Ile Perrot                          QC  --3----- RQ 9501                                                                     
+   CA IGT Île-du-Grand-Calumet                Ile-du-Grand-Calumet                QC  --3----- RL 1501      4543N 07637W                                                   
+   CA BRV Iles de Boucherville                Iles de Boucherville                QC  -2------ RQ 0101                                                                     
+   CA YGR Iles de la Madeleine                Iles de la Madeleine                QC  ---4---- AI 0002                                                                     
+   CA ILF Ilford                              Ilford                              MB  ---4---- AI 0001                                                                     
+   CA SIM Imperial                            Imperial                            SK  1234---- RL 0601      5120N 10526W                                                   
+   CA IAM Indian Arm                          Indian Arm                          BC  1------- RL 0901      4922N 12252W                                                   
+¦  CA IHR Indian Harbour                      Indian Harbour                      NL  --3----- RL 1707      5428N 05711W @Coo                                              
+   CA IHD Indian Head                         Indian Head                         SK  -23--6-- RL 0607      5032N 10340W                                                   
+   CA IGS Ingersoll                           Ingersoll                           ON  --34---- RQ 9501 XIB                                                                 
+   CA ISI Ingleside                           Ingleside                           ON  -----6-- RL 0601      4500N 07500W                                                   
+   CA IGE Inglewood                           Inglewood                           ON  --3----- RL 0401      4347N 07956W                                                   
+   CA IGI Inglis                              Inglis                              MB  --3----- RL 1301      5057N 10114W                                                   
+   CA ING Ingonish                            Ingonish                            NS  --3----- RL 0207      4642N 06022W                                                   
+   CA IKM Inkerman                            Inkerman                            ON  1-3----- RL 0901      4502N 07524W                                                   
+   CA KER Inkerman                            Inkerman                            NB  --3----- RL 0507      4740N 06450W                                                   
+   CA IKP Innerkip                            Innerkip                            ON  -23--6-- RL 0607      4312N 08042W                                                   
+   CA INN Innisfail                           Innisfail                           AB  --3----- RL 0307      5202N 11357W                                                   
+   CA ISF Innisfil                            Innisfil                            ON  --3----- RQ 0901      4420N 07932W                                                   
+   CA INF Innisfree                           Innisfree                           AB  -23----- RL 0701      5323N 11132W                                                   
+   CA YPH Inukjuak                            Inukjuak                            QC  ---4---- AI 0002                                                                     
+   CA YEV Inuvik                              Inuvik                              NT  ---4---- AI 0002                                                                     
+   CA TIL Inverlake                           Inverlake                           AB  ---4---- AI 0001                                                                     
+   CA IVM Invermere                           Invermere                           BC  123----- RL 0701      5031N 11602W                                                   
+   CA IVR Inverness                           Inverness                           QC  --3----- RL 1607      4615N 07131W                                                   
+   CA IVS Inverness                           Inverness                           NS  --3----- RL 0507      4614N 06118W                                                   
+   CA IWO Inwood                              Inwood                              ON  --3--6-- RL 0607      4249N 08159W                                                   
+   CA IOC Ioco                                Ioco                                BC  1------- AS 9905                                                                     
+   CA ION Iona                                Iona                                NS  1------- AS 9905                                                                     
+   CA IQL Iqaluit                             Iqaluit                             NU  1-3----- RL 0401 YFB  6344N 06830W ex Frobisher Bay                                  
+   CA IRM Irma                                Irma                                AB  --3----- RL 0201      5254N 11114W                                                   
+   CA ISP Iron Springs                        Iron Springs                        AB  -23----- RL 0701      4956N 11241W                                                   
+   CA IRQ Iroquois                            Iroquois                            ON  --3----- RL 0201      4451N 07520W                                                   
+   CA IQF Iroquois Falls                      Iroquois Falls                      ON  -23--6-- RL 0607      4846N 08041W                                                   
+   CA ICA Irricana                            Irricana                            AB  -23----- RL 0507      5119N 11337W                                                   
+   CA IVN Irvine                              Irvine                              AB  123--6-- RL 0601      4957N 11016W                                                   
+   CA SKT Iskut                               Iskut                               BC  --3----- RL 1207      5750N 12959W                                                   
+   CA ISL Island Lake                         Island Lake                         MB  1-3----- RL 0607      5352N 09440W                                                   
+   CA YIV Island Lk/Garden Hill               Island Lk/Garden Hill               MB  ---4---- AI 0002                                                                     
+   CA ISD Issoudun                            Issoudun                            QC  --3----- RL 1401      4635N 07137W                                                   
+   CA ITA Ituna                               Ituna                               SK  -23----- RL 0701      5110N 10330W                                                   
+   CA YIK Ivujivik                            Ivujivik                            QC  ---4---- AI 0002                                                                     
+   CA JAC Jackson Arm                         Jackson Arm                         NL  1-3----- RL 0701      4952N 05648W                                                   
+   CA JBA Jackson Bay                         Jackson Bay                         BC  --3----- RL 1207      5031N 12545W                                                   
+   CA JAV Jacksonville                        Jacksonville                        NB  -23----- RL 0607      4610N 06735W                                                   
+   CA JNS Jansen                              Jansen                              SK  --3----- RL 1301      5147N 10443W                                                   
+   CA JVS Jarvis                              Jarvis                              ON  -23----- RL 0701      4253N 08007W                                                   
+   CA JPR Jasper                              Jasper                              AB  --34---- RL 9901 YJA                                                                 
+   CA JED Jedway                              Jedway                              BC  --3----- RL 0207      5218N 13113W                                                   
+   CA JEG Jemseg                              Jemseg                              NB  1-3----- RL 1301      4549N 06606W                                                   
+   CA JNE Jenner                              Jenner                              AB  -23----- RL 0701      5045N 11111W                                                   
+   CA ZJG Jenpeg                              Jenpeg                              MB  ---4---- AI 0002                                                                     
++  CA JSS Jerseyville                         Jerseyville                         ON  --3----- RL 1707      43120N 08006W                                                   
+   CA JEI Jervis Inlet                        Jervis Inlet                        BC  1------- AS 0001                                                                     
+   CA JOF Joffre                              Joffre                              AB  --3----- RQ 9501                                                                     
+   CA JGG Joggins                             Joggins                             NS  --3----- RL 1601      4542N 06426W                                                   
+   CA YJO Johnny Mountain                     Johnny Mountain                     BC  ---4---- AI 0002                                                                     
+   CA JOH Johnstown                           Johnstown                           ON  --3----- RL 1601      4444N 07528W                                                   
+   CA JOL Joliette                            Joliette                            QC  --34---- RQ 9501 XJL                                                                 
+   CA JYQ Joly                                Joly                                ON  --3--6-- RL 1207      4547N 07915W                                                   
+   CA JON Jonquière                           Jonquiere                           QC  --3----- RL 0212 XJQ  4825N 07115W                                                   
+   CA JST Jordan Station                      Jordan Station                      ON  0------- RQ 9307                                                                     
+   CA JUN Juniper                             Juniper                             NB  --3----- RL 1701      4633N 06713W                                                   
+   CA KNW Kahnawake                           Kahnawake                           QC  -----6-- RQ 0907      4524N 07340W                                                   
++  CA KKM Kaministiquia                       Kaministiquia                       ON  --3----- RL 1707      4832N 08934W                                                   
+   CA KML Kamloops                            Kamloops                            BC  --34---- RQ 9501 YKA                                                                 
+   CA KSA Kamsack                             Kamsack                             SK  -23----- RL 0701      5133N 10154W                                                   
+   CA KNA Kananaskis                          Kananaskis                          AB  -23----- RL 0701      5104N 11507W                                                   
+   CA KAN Kanata                              Kanata                              ON  -23----- RQ 9307                                                                     
+   CA XGR Kangiqsualujjuaq                    Kangiqsualujjuaq                    QC  ---4---- AI 0002                                                                     
+   CA YWB Kangiqsujuaq                        Kangiqsujuaq                        QC  ---4---- AI 0002                                                                     
+   CA YKG Kangirsuk                           Kangirsuk                           QC  ---4---- AI 0002                                                                     
+   CA YYU Kapuskasing                         Kapuskasing                         ON  ---4---- AI 0002                                                                     
+   CA XKS Kasabonika                          Kasabonika                          ON  ---4---- AI 0002                                                                     
+   CA YDU Kasba Lake                          Kasba Lake                          NT  ---4---- AI 0002                                                                     
+   CA ZKE Kaschechewan                        Kaschechewan                        ON  ---4---- AI 0002                                                                     
+   CA KLO Kaslo                               Kaslo                               BC  1-3----- RL 0701      4954N 11655W                                                   
+   CA YAU Kattiniq/Donaldson Lake             Kattiniq/Donaldson Lake             QC  ---4---- AI 0002                                                                     
+   CA KLL Kearl Lake                          Kearl Lake                          AB  -----6-- RQ 1001      5737N 11125W                                                   
++  CA KEY Kearney                             Kearney                             ON  --3----- RL 1707      4536N 07907W                                                   
+   CA KGK Kedgwick                            Kedgwick                            NB  --3----- RL 0207      4738N 06720W                                                   
+   CA KEE Keene                               Keene                               ON  1----6-- RQ 1007      4415N 07810W                                                   
+   CA KWN Keewatin                            Keewatin                            ON  --3----- RL 0207      4945N 09434W                                                   
+   CA CNG Keg River                           Keg River                           AB  ------7- RL 1201      5748N 11752W                                                   
+   CA ZKG Kegaska                             Kegaska                             QC  ---4---- AI 0002                                                                     
+   CA KWL Kelowna                             Kelowna                             BC  --34---- RL 1601 YLW  4957N 11922W                                                   
+   CA KES Kelsey                              Kelsey                              MB  ---4---- AI 0001                                                                     
++  CA KEL Kelvington                          Kelvington                          SK  --3----- RL 1707      5210N 10332W                                                   
+   CA KWO Kelwood                             Kelwood                             MB  -23----- RL 0701      5037N 09928W                                                   
+   CA KVE Kemptville                          Kemptville                          ON  -----6-- RQ 0907      4501N 07538W                                                   
+   CA KSO Kenaston                            Kenaston                            SK  -23----- RL 0701      5130N 10616W                                                   
+   CA KWH Kenilworth                          Kenilworth                          ON  --3----- RQ 0901      4353N 08038W                                                   
+   CA YKI Kennosao Lake                       Kennosao Lake                       MB  ---4---- AI 0002                                                                     
+   CA YQK Kenora                              Kenora                              ON  ---4---- AI 0002                                                                     
+   CA KSN Kensington                          Kensington                          PE  --3----- RL 0207      4626N 06338W                                                   
+   CA KBD Kent Bridge                         Kent Bridge                             --3----- RQ 0201      4231N 08206W                                                   
+   CA KTL Kentville                           Kentville                           NS  --3----- RL 0106      4504N 06430W                                                   
+   CA KEA Keoma                               Keoma                               AB  --3----- RL 0106      5113N 11338W                                                   
+   CA KRO Keremeos                            Keremeos                            BC  --3----- RL 1607      4912N 11949W                                                   
+   CA KWD Kerwood                             Kerwood                             ON  --3----- RQ 0901      4256N 08144W                                                   
+   CA KWK Keswick                             Keswick                             ON  -2------ RL 0101      4414N 07928W                                                   
+   CA KSW Keswick Ridge                       Keswick Ridge                       NB  --3----- RL 1601      4600N 06653W                                                   
++  CA KHS Ketch Harbour                       Ketch Harbour                       NS  --3----- RL 1707      4429N 06333W                                                   
+   CA KTB Kettleby                            Kettleby                            ON  --3----- RL 0307      4401N 07934W                                                   
+   CA KHO Key Harbour                         Key Harbour                         ON  1-3----- RL 0401      4553N 08044W                                                   
+   CA YKJ Key Lake                            Key Lake                            SK  ---4---- AI 0002                                                                     
+   CA KQC Kiamika                             Kiamika                             QC  --3----- RL 1601      4625N 07522W                                                   
+   CA YXI Killaloe                            Killaloe                            ON  ---4---- AI 0002                                                                     
++  CA KLM Killam                              Killam                              AB  --3----- RL 1707      5247N 11151W                                                   
+   CA KLY Killarney                           Killarney                           ON  1------- AS 0001                                                                     
+   CA KRY Killarney                           Killarney                           MB  -23----- RL 0701      4911N 09939W                                                   
+   CA XBW Killineq                            Killineq                            QC  ---4---- AI 0002                                                                     
+   CA YQE Kimberley                           Kimberley                           BC  ---4---- AI 0002                                                                     
+   CA YLC Kimmirut/Lake Harbour               Kimmirut/Lake Harbour               NT  ---4---- AI 0002                                                                     
+   CA KBU Kinburn                             Kinburn                             ON  --3----- RQ 0901      4523N 07611W                                                   
+   CA KAC Kincardine                          Kincardine                          ON  --34---- RL 9805 YKD                                                                 
+   CA YKY Kindersley                          Kindersley                          SK  ---4---- AI 0002                                                                     
+   CA KGG King                                King                                ON  --3----- RL 1501      4355N 07931W                                                   
++  CA KCN King City                           King City                           ON  --3----- RL 1707      4355N 07931W                                                   
+   CA KWI King William Is                     King William Is                     NU  1------- AS 0001                                                                     
+   CA KIF Kingfisher Lake                     Kingfisher Lake                     ON  ---4---- AI 0001                                                                     
+   CA KGM Kingman                             Kingman                             AB  -23----- RL 0701      5313N 11234W                                                   
+   CA KGU Kingsbury                           Kingsbury                           QC  --3----- RL 1601      4535N 07208W                                                   
+   CA KFS Kingsey Falls                       Kingsey Falls                       QC  --3----- RQ 9805                                                                     
+   CA KNG Kingsgate                           Kingsgate                           BC  -23----B RL 0701      4900N 11611W                                                   
+   CA KGN Kingston                            Kingston                            NS  --34---- RL 0207 YGK  4459N 06456W                                                   
+   CA KIN Kingston                            Kingston                            ON  1--4---- AS 9905 YGK                                                                 
+   CA KVL Kingsville                          Kingsville                          ON  1------- AS 0001                                                                     
+   CA KST Kinistino                           Kinistino                           SK  --3----- RL 0201      5257N 10502W                                                   
+   CA KKR Kinkora                             Kinkora                             PE  1----6-- RQ 1001      0463N 06360W                                                   
+   CA KNE Kinnear's Mills                     Kinnear's Mills                     QC  1-3----- RL 0901      4613N 07123W                                                   
+   CA KNY Kinoosao                            Kinoosao                            SK  ---4---- AI 0001                                                                     
+   CA KTO Kintore                             Kintore                             ON  --3--6-- RL 0607      4308N 08102W                                                   
+   CA KPL Kipling                             Kipling                             SK  --3----- RL 1407      5006N 10237W                                                   
+   CA KIP Kippen                              Kippen                              ON  --3----- RQ 0901      4328N 08130W                                                   
+   CA KIK Kirkland                            Kirkland                            QC  --3----- RQ 9501                                                                     
+   CA YKX Kirkland Lake                       Kirkland Lake                       ON  ---4---- AI 0002                                                                     
++  CA KKT Kirkton                             Kirkton                             ON  --3----- RL 1707      4319N 08130W                                                   
+   CA KBY Kisbey                              Kisbey                              SK  --3----- RL 1401      4938N 10240W                                                   
+   CA KTC Kitchener                           Kitchener                           ON  ---4---- AC 8103 YKF                                                                 
+   CA KTM Kitimat                             Kitimat                             BC  1------- AS 9905                                                                     
+   CA YKK Kitkatla                            Kitkatla                            BC  ---4---- AI 0002                                                                     
+   CA KFD Kleefeld                            Kleefeld                            MB  --3----- RL 0701      4930N 09652W                                                   
+   CA KBG Kleinburg                           Kleinburg                           ON  -23----- RL 0106      4346N 07934W                                                   
+   CA YKT Klemtu                              Klemtu                              BC  ---4---- AI 0002                                                                     
+   CA YKE Knee Lake                           Knee Lake                           MB  ---4---- AI 0002                                                                     
+   CA KNV Knights Inlet                       Knights Inlet                       BC  ---4---- AI 0001                                                                     
+   CA KNN Knowlton                            Knowlton                            QC  --3----- RL 0507      4513N 07231W                                                   
+   CA KOL Kola                                Kola                                MB  --3----- RQ 0901                                                                     
+   CA KMK Komoka                              Komoka                              ON  -2------ RQ 0101                                                                     
+   CA KOV Kovik Bay                           Kovik Bay                           QC  1-3----- AS 0207      6133N 07744W                                                   
++  CA YBB Kugaaruk                            Kugaaruk                            NU  --34---- RL 1707      6831N 08949W                                                   
+   CA FCM Kuujjuaq                            Kuujjuaq                            QC  1--4---- AI 0212 YVP  5806N 06824W                                                   
+   CA YVP Kuujjuaq Apt                        Kuujjuaq Apt                        QC  ---4---- RL 1407      5805N 06825W                                                   
+   CA LBA La Baie                             La Baie                             QC  --3----- RL 0201      4819N 07051W                                                   
+   CA LBQ La Broquerie                        La Broquerie                        MB  -23----- RL 0701      4931N 09631W                                                   
+   CA LCR La Crête                            La Crete                            AB  --3----- RL 0507      5811N 11624W                                                   
+   CA LGC La Glace                            La Glace                            AB  --3----- RL 0901      5024N 11909W                                                   
+   CA YGL La Grande                           La Grande                           QC  ---4---- AI 0002                                                                     
+   CA LGE La Guadeloupe                       La Guadeloupe                       QC  -23--6-- RL 0607      4557N 07056W                                                   
+   CA LHA La Have                             La Have                             NS  0------- RQ 9506                                                                     
+   CA LAM La Malbaie                          La Malbaie                          QC  --3----- RL 0207      4739N 07009W                                                   
+   CA LPT La Patrie                           La Patrie                           QC  --3----- RL 0207      4524N 07115W                                                   
+   CA LPO La Pocatière                        La Pocatiere                        QC  --3----- RL 0207      4724N 07001W                                                   
+   CA LPE La Prairie                          La Prairie                          QC  --3----- RL 0207      4525N 07329W                                                   
+   CA RIE La Présentation                     La Presentation                     QC  --3--6-- RL 0607      4540N 07256W                                                   
+   CA LRE La Reine                            La Reine                            QC  --3----- RL 1401      4852N 07930W                                                   
+   CA REL La Relance                          La Relance                          QC  1------- RQ 1001      5009N 06627W                                                   
+   CA YVC La Ronge                            La Ronge                            SK  ---4---- AI 0002                                                                     
+   CA LSL La Salette                          La Salette                          ON  --3----- RQ 0901                                                                     
+   CA LMW La Salle                            La Salle                            MB  1-3----- RL 0901      4942N 09716W                                                   
+   CA SSQ La Sarre                            La Sarre                            QC  ---4---- AI 0001                                                                     
+   CA ZLT La Tabatière                        La Tabatiere                        QC  ---4---- AI 0212      5050N 05857W                                                   
+   CA YLQ La Tuque                            La Tuque                            QC  ---4---- AI 0002                                                                     
++  CA LVD La Visitation-de-Yamaska            La Visitation-de-Yamaska            QC  --3----- RL 1707      4608N 07236W                                                   
+   CA LBR Labrador City                       Labrador City                       NL  --3----- RL 0501      5257N 06655W                                                   
+   CA YLB Lac Biche                           Lac Biche                           AB  ---4---- AI 0002                                                                     
+   CA LBM Lac Brome                           Lac Brome                           QC  --3----- RQ 0901      4513N 07230W                                                   
+   CA LDB Lac du Bonnet                       Lac du Bonnet                       MB  --3----- RL 0201      5015N 09604W                                                   
+   CA AAB Lac La Biche                        Lac La Biche                        AB  1----6-- RL 1201      5446N 11157W                                                   
+   CA HLC Lac La Hache                        Lac La Hache                        BC  --3----- RL 0701      5149N 12128W                                                   
+   CA LBP Lac-Beauport                        Lac-Beauport                        QC  --3----- RL 0901      4658N 07118W                                                   
+   CA LAB Lac-Bouchette                       Lac-Bouchette                       QC  --3----- RL 1607      4816N 07210W                                                   
+   CA LEC Lac-des-Écorces                     Lac-des-Ecorces                     QC  --3----- RL 1407      4633N 07521W                                                   
+   CA LIL Lac-des-Îles                        Lac-des-Iles                        QC  --3----- RL 0607      4624N 07532W                                                   
+   CA LDT Lac-Drolet                          Lac-Drolet                          QC  1----6-- RL 1201      4543N 07051W                                                   
+   CA CER Lac-du-Cerf                         Lac-du-Cerf                         QC  --3----- RL 1601      4618N 07530W                                                   
+   CA LCA Lachenaie                           Lachenaie                           QC  --3----- RL 0701      4543N 07332W                                                   
+   CA LAC Lachine/Montreal                    Lachine/Montreal                    QC  1------- RL 0001                                                                     
+   CA LCH Lachute                             Lachute                             QC  1-3----- AS 9905                                                                     
+   CA LME Lac-Mégantic                        Lac-Megantic                        QC  -23----- RL 0212      4534N 07051W                                                   
+   CA LCO Lacolle                             Lacolle                             QC  1-3----- AS 9905                                                                     
+   CA LCM Lacombe                             Lacombe                             AB  --3----- RL 0106      5228N 11344W                                                   
+   CA LCN Lacorne                             Lacorne                             QC  --3----- RL 1401      4821N 07759W                                                   
+   CA LDN Ladner                              Ladner                              BC  1-3----- AS 9905                                                                     
+   CA LAD Ladysmith                           Ladysmith                           BC  12------ AI 9701 XCH                                                                 
+   CA YLF Laforges                            Laforges                            QC  ---4---- AI 0002                                                                     
+   CA YAR Lagrande 3                          Lagrande 3                          QC  ---4---- AI 0002                                                                     
+   CA YAH Lagrande 4                          Lagrande 4                          QC  ---4---- AI 0002                                                                     
++  CA HOW Lake Cowichan                       Lake Cowichan                       BC  --3----- RL 1707      4849N 12403W                                                   
++  CA LLE Lake Echo                           Lake Echo                           NS  --3----- RL 1707      4444N 06323W                                                   
+   CA LAH Lake Harbour                        Lake Harbour                        NU  1------- AS 0001                                                                     
+   CA LLI Lake Louise                         Lake Louise                         AB  -23--6-- RL 0607      5126N 11611W                                                   
+   CA LKF Lakefield                           Lakefield                           ON  --3----- RL 0201      4425N 07816W                                                   
+   CA LSE Lakeshore                           Lakeshore                           ON  123--6-- RL 0701      4217N 08244W                                                   
+   CA LKD Lakeside                            Lakeside                            NS  --3----- RL 1607      4438N 06342W                                                   
+   CA LKI Lakeside                            Lakeside                            ON  --3--6-- RL 0607      4312N 08101W                                                   
+   CA LAW Lakeview                            Lakeview                            ON  1------- AS 0001                                                                     
+   CA LMB Lambeth                             Lambeth                             ON  --3----- RL 0901      4254N 08118W                                                   
+   CA LSR Lambton Shores                      Lambton Shores                      ON  --3----- RL 1307      4311N 08154W                                                   
+   CA LQE Lamèque                             Lameque                             NB  --3----- RL 0207      4747N 06438W                                                   
+   CA LMT Lamont                              Lamont                              AB  ------7- RL 1201      5345N 11247W                                                   
+   CA LPM Lampman                             Lampman                             SK  --3----- RL 1207      4923N 10245W                                                   
+   CA LCS Lancaster                           Lancaster                           ON  --3----- RL 1107                                                                     
+   CA LRP Lancaster Park                      Lancaster Park                      AB  -23----- RL 0701      5340N 11329W                                                   
+   CA LAL L'ancienne-Lorette                  L'ancienne-Lorette                  QC  --3----- RQ 0101                                                                     
+   CA LMK Landmark                            Landmark                            MB  --3----- RL 0701      4940N 09649W                                                   
++  CA LLA Landrienne                          Landrienne                          QC  --3----- RL 1707      4833N 07757W                                                   
+   CA YLA Langara                             Langara                             BC  ---4---- AI 0002                                                                     
+   CA LAK Langbank                            Langbank                            SK  -----6-- RL 1301      5003N 10217W                                                   
+   CA LGD Langdon                             Langdon                             AB  -23----- RL 0701      5058N 11340W                                                   
+   CA LAG L'Ange-Gardien                      L'Ange-Gardien                      QC  --3----- RL 0201      4655N 07106W                                                   
+   CA LGB Langenburg                          Langenburg                          SK  -23----- RL 0701      5050N 10142W                                                   
+   CA 9FR Langford Station                    Langford Station                    BC  --3----- RL 1607      4827N 12330W                                                   
+   CA LGA Langham                             Langham                             SK  -23----- RL 0701      5221N 10657W                                                   
+   CA LNG Langley                             Langley                             BC  1-3----- AS 9905                                                                     
++  CA LGR Langruth                            Langruth                            MB  --3----- RL 1707      5023N 09840W                                                   
+   CA LGT Langton                             Langton                             ON  0------- RQ 9307                                                                     
+   CA LNA Lanigan                             Lanigan                             SK  -23----- RL 0701      5151N 10501W                                                   
+   CA LRI Lanoraie                            Lanoraie                            QC  --3----- RL 0307      4558N 07313W                                                   
+   CA LDS Lansdowne                           Lansdowne                           ON  1-3----- RL 0401      5213N 08753W                                                   
+   CA YLH Lansdowne House                     Lansdowne House                     ON  ---4---- AI 0002                                                                     
+   CA LB3 L'Anse-à-Beaufils                   L'Anse-a-Beaufils                   QC  12---6-- RL 1701      4828N 06418W                                                   
+   CA ALO L'Anse-au-Loup                      L'Anse-au-Loup                      NL  1-3----- RL 0607      5131N 05650W                                                   
+¦  CA LNZ Lantz                               Lantz                               NS  --3----- RL 1707      4459N 06328W @Fun@Sta@Coo                                      
+   CA LZV Lantzville                          Lantzville                          BC  123----- RL 0701      4915N 12405W                                                   
+   CA LAS LaSalle (La Salle)                  LaSalle (La Salle)                  QC  --3----- RL 0501      4525N 07338W                                                   
+   CA LAN L'Assomption                        L'Assomption                        QC  --3----- RL 0207      4548N 07325W                                                   
+   CA LAT Latchford                           Latchford                           ON  -23----- RL 0407      4720N 07948W                                                   
+   CA LAU Laurentides                         Laurentides                         QC  --3----- RL 0207      4552N 07345W                                                   
+   CA LRQ Laurie River                        Laurie River                        MB  ---4---- AI 0001                                                                     
+   CA LAR Laurier                             Laurier                             MB  --3----- RL 0901      5054N 09933W                                                   
+   CA LSA Laurier-Station                     Laurier-Station                     QC  -23----- RL 0607      4632N 07138W                                                   
+   CA LZN Lauzon                              Lauzon                              QC  --3----- RL 0207      4649N 07109W                                                   
+   CA LAV Laval                               Laval                               QC  -23----- RL 0001                                                                     
+   CA LVR Lavaltrie                           Lavaltrie                           QC  --3----- RQ 0901      4553N 07317W                                                   
+   CA LVH Laverlochère                        Laverlochere                        QC  123--6-- RL 0601      4725N 07917W                                                   
+   CA LVT Lavington                           Lavington                           BC  --3----- RL 1401      5013N 11906W                                                   
+   CA LCT Lawrencetown                        Lawrencetown                        NS  --3----- RL 1301      4453N 06510W                                                   
+   CA LII Lawrenceville                       Lawrenceville                       QC  -----6-- RL 1401      4525N 07221W                                                   
+   CA LAZ Lazo                                Lazo                                BC  --3----- RL 0401      4943N 12454W                                                   
+   CA BC9 Le Bic                              Le Bic                              QC  --3----- RL 1301      4822N 06842W                                                   
+   CA LEG Le Gardeur                          Le Gardeur                          QC  --3----- RL 0207      4545N 07328W                                                   
+   CA LDR Leader                              Leader                              SK  -2------ RL 1301      5053N 10933W                                                   
+   CA XLF Leaf Bay                            Leaf Bay                            QC  ---4---- AI 0002                                                                     
+   CA LRA Leaf Rapids                         Leaf Rapids                         MB  --34---- RL 9901 YLR                                                                 
+   CA LMN Leamington                          Leamington                          ON  123----- AS 9905                                                                     
+   CA LSK Leask                               Leask                               SK  --3----- RL 0901      5301N 10644W                                                   
+   CA LDE Leaskdale                           Leaskdale                           ON  --3----- RL 0207      4412N 07910W                                                   
+   CA YLS Lebel-sur-Quevillon                 Lebel-sur-Quevillon                 QC  ---4---- AI 0002                                                                     
+   CA LDC Leduc                               Leduc                               AB  --3----- RL 0106      5315N 11333W                                                   
+   CA LFA Lefaivre                            Lefaivre                            ON  --3----- RL 1207      4534N 07455W                                                   
+   CA LGL Legal                               Legal                               AB  -2------ RL 0101      5356N 11335W                                                   
+   CA LEM LeMoyne                             LeMoyne                             QC  --3----- RL 1301      4530N 07329W                                                   
+   CA LEN Lennoxville                         Lennoxville                         QC  --3----- RQ 9501                                                                     
+   CA EPN L'Epiphanie                         L'Epiphanie                         QC  --3----- RL 1301      4551N 07329W                                                   
+   CA LEP Lepreau                             Lepreau                             NB  --3----- RL 0307      4510N 06628W                                                   
+   CA LRS Leross                              Leross                              SK  -23----- RL 0607      5117N 10352W                                                   
+   CA LRO Leroy                               Leroy                               SK  -23----- RL 0701      5200N 10444W                                                   
+   CA LRY Léry                                Lery                                QC  -23----- RL 0701      4520N 07349W                                                   
+   CA LCI Les Cédres                          Les Cedres                          QC  --3----- RL 0001                                                                     
+   CA LTX Les Coteaux                         Les Coteaux                         QC  --3----- RL 1301      4517N 07414W                                                   
+   CA QLE Les Escoumins                       Les Escoumins                       QC  --3----- RL 1601      4821N 06925W                                                   
+   CA MHN Les Mechins                         Les Mechins                         QC  1-3----- RL 0901      4900N 06658W                                                   
+   CA LTB Lethbridge                          Lethbridge                          AB  ---4---- RQ 9307 YQL                                                                 
+   CA LEV Lévis                               Levis                               QC  1------- AC 0212      4648N 07110W                                                   
+   CA LWP Lewisporte                          Lewisporte                          NL  1-3----- AS 0501      4914N 05504W                                                   
+   CA LBU Libau                               Libau                               MB  -23----- RL 0701      5016N 09643W                                                   
+   CA ILS L'Île-des-Soeurs (Nuns Island)      L'Ile-des-Soeurs (Nuns Island)      QC  1----6-- RL 1001      4518N 07402W                                                   
+   CA LOO Lillooet                            Lillooet                            BC  -23--6-- RL 0607      5041N 12156W                                                   
+   CA LHO Limehouse                           Limehouse                           ON  -23----- RL 0701      4338N 07959W                                                   
+   CA LMS Limestone                           Limestone                           NB  --3----- RL 1601      4602N 06740W                                                   
+   CA N9L Lincoln                             Lincoln                             ON  --3----- RL 1607      4308N 07926W                                                   
+   CA LLB Lindell Beach                       Lindell Beach                       BC  --3----- RL 1301      4902N 12200W                                                   
+   CA LDI Linden                              Linden                              AB  --3----- RQ 0201      5135N 11330W                                                   
+   CA LND Lindsay                             Lindsay                             ON  --3----- RL 0201      4421N 07844W                                                   
+   CA LGN Lingan                              Lingan                              NS  --3----- RL 0207      4614N 06003W                                                   
+   CA LWD Linwood                             Linwood                             ON  --3----- RL 1601      4334N 08043W                                                   
++  CA LIB Lions Bay                           Lions Bay                           BC  --3----- RL 1707      4927N 12314W                                                   
+   CA LIT L'Islet                             L'Islet                             QC  -23----- RL 0701      4706N 07021W                                                   
+   CA LTV L'Isletville                        L'Isletville                        QC  --3----- RL 1701      4707N 07020W                                                   
+   CA IVT L'Isle-Verte                        L'Isle-Verte                        QC  --3----- RL 1407      4801N 06920W                                                   
+   CA LTW Listowel                            Listowel                            ON  -23----- AC 0001                                                                     
++  CA LBO Little Britain                      Little Britain                      ON  --3----- RL 1707      4417N 07851W                                                   
+   CA LBK Little Brook                        Little Brook                        NS  -23--6-- RL 0607      4418N 06607W                                                   
+   CA LIC Little Current                      Little Current                      ON  1------- AS 0001                                                                     
+   CA ZGR Little Grand Rapids                 Little Grand Rapids                 MB  ---4---- AI 0002                                                                     
+   CA LIN Little Narrows                      Little Narrows                      NS  1------- AS 9905                                                                     
+   CA LSO Little Shemogue                     Little Shemogue                     NB  --3--6-- RL 0607      4607N 06401W                                                   
+   CA LSY Little Smoky                        Little Smoky                        AB  --3----- RL 1107      5444N 11710W                                                   
+   CA LVY Lively                              Lively                              ON  -23----- RL 0607      4626N 08109W                                                   
+   CA LIV Liverpool                           Liverpool                           NS  1------- AS 9905                                                                     
+   CA YLL Lloydminster                        Lloydminster                        AB  -234---- AI 0207      5316N 10959W                                                   
+   CA LOB Lobo                                Lobo                                ON  123----- RL 0601      4300N 08125W                                                   
+   CA LCP Lockeport                           Lockeport                           NS  1-3----- RL 0307      4342N 06507W                                                   
+   CA LKP Lockport                            Lockport                            MB  -23----- RL 0607      5005N 09657W                                                   
+   CA OCH Locusthill                          Locusthill                          ON  0------- RQ 9307                                                                     
+   CA LDG Lodgepole                           Lodgepole                           AB  --3----- RL 0901      5306N 11519W                                                   
+   CA LNL Logan Lake                          Logan Lake                          BC  --3----- RL 0701      5030N 12049W                                                   
+   CA LGY Logy Bay                            Logy Bay                            NL  --3----- RL 1401      4738N 05241W                                                   
++  CA LOY Lombardy                            Lombardy                            ON  --3----- RL 1707      4449N 07605W                                                   
+   CA LMD Lomond                              Lomond                              NL  1-3----- RL 0501      4927N 05746W                                                   
+   CA LOM Lomond                              Lomond                              AB  -23----- RL 0207      5020N 11237W                                                   
+   CA LOD London                              London                              ON  -234---- AI 9506 YXU                                                                 
++  CA ONL Londonderry                         Londonderry                         NS  --3----- RL 1707      4528N 06336W                                                   
+   CA LNB Lone Butte                          Lone Butte                          BC  -23----- RL 0701      5133N 12112W                                                   
+   CA LOH Long Harbour                        Long Harbour                        NL  1-3----- AS 0501      4726N 05348W                                                   
+   CA YLX Long Point                          Long Point                          ON  ---4---- AI 0002                                                                     
+   CA LOP Long Pond                           Long Pond                           NL  1------- AS 0501      4800N 05555W                                                   
+   CA LST Long Sault                          Long Sault                          ON  --3----- RL 0307      4502N 07454W                                                   
+   CA LFM Longford Mills                      Longford Mills                      ON  --3----- RQ 0907      4440N 07920W                                                   
+   CA LOG Longlac                             Longlac                             ON  --3----- RL 1301      4947N 08633W                                                   
+   CA LNP Longue-Pointe                       Longue-Pointe                       QC  -23----- RL 0407      4535N 07331W                                                   
+   CA LON Longueuil                           Longueuil                           QC  -23----- RL 0207      4532N 07330W                                                   
+   CA LRT Lorette                             Lorette                             MB  --3----- RL 0701      4944N 09651W                                                   
+   CA LVL Loretteville                        Loretteville                        QC  --3----- RL 0207      4650N 07122W                                                   
+   CA LTO Loretto                             Loretto                             ON  --3----- RQ 0901      4402N 07953W                                                   
+   CA LOR L'Orignal                           L'Orignal                           ON  --3----- RL 9805                                                                     
+   CA LNV Lorneville                          Lorneville                          ON  --3----- RL 0601      4425N 07900W                                                   
+   CA LOT Lotbinière                          Lotbiniere                          QC  -2------ RL 0212      4637N 07156W                                                   
+   CA LOU Louisbourg                          Louisbourg                          NS  1-3----- AS 0401      4555N 05959W                                                   
+   CA LSV Louiseville                         Louiseville                         QC  -23----- RL 0207      4615N 07257W                                                   
+   CA LWB Lowbanks                            Lowbanks                            ON  123--6-- RL 0601      4252N 07927W                                                   
+   CA LWF Lowe Farm                           Lowe Farm                           MB  --3----- RL 1301      4921N 09735W                                                   
+   CA LCV Lower Cove                          Lower Cove                          NL  1-3----- RL 1207      4831N 05900W                                                   
+   CA LEO Lower East Pubnico                  Lower East Pubnico                  NS  -23----- RL 0701      4336N 06546W                                                   
+   CA SKL Lower Sackville                     Lower Sackville                     NS  1-3----- RL 0901      4635N 04144W                                                   
+   CA LWH Lower Woods Harbour                 Lower Woods Harbour                 NS  123----- RL 0207      4331N 06544W                                                   
+   CA LUU Lucan                               Lucan                               ON  --3----- RL 0106      4310N 08124W                                                   
+   CA LKN Lucknow                             Lucknow                             ON  --3----- RQ 0901      4357N 08131W                                                   
+   CA LCL Lucky Lake                          Lucky Lake                          SK  --3----- RL 1401      5059N 10708W                                                   
+   CA LUY Lumby                               Lumby                               BC  --3----- RL 0207      5014N 11857W                                                   
+   CA LUN Lunenburg                           Lunenburg                           NS  1------- AS 9905                                                                     
+   CA LKV Luskville                           Luskville                           QC  --3----- RL 0901      4531N 07600W                                                   
+   CA YSG Lutselke/Snowdrift                  Lutselke/Snowdrift                  NT  ---4---- AI 0002                                                                     
+   CA YAJ Lyall Harbour                       Lyall Harbour                       BC  ---4---- AI 0002                                                                     
+   CA LYA Lyalta                              Lyalta                              AB  --3----- RL 1607      5106N 11336W                                                   
+   CA LYN Lyn                                 Lyn                                 ON  --3----- RL 1307      4434N 07547W                                                   
+   CA YYL Lynn Lake                           Lynn Lake                           MB  ---4---- AI 0002                                                                     
+   CA LYS Lyster                              Lyster                              QC  --3----- RL 1701      4622N 07137W                                                   
+   CA YLY Lytton                              Lytton                              BC  ---4---- AI 0002                                                                     
+   CA MAB Mabou                               Mabou                               NS  1-3----- RL 0901      4604N 06123W                                                   
+   CA MCC Macamic                             Macamic                             QC  --3----- RQ 0901      4846N 07900W                                                   
++  CA MD8 Macdonald                           Macdonald                           MB  --3----- RL 1707      5004N 09827W                                                   
+   CA MGG Macgregor                           Macgregor                           MB  --3----- RL 1401      4958N 09846W                                                   
+   CA MNZ Mackenzie                           Mackenzie                           BC  --3----- RL 0701      5520N 12305W                                                   
+   CA MKL Macklin                             Macklin                             SK  -2------ RL 1301      5220N 10957W                                                   
+   CA MCO Macoun                              Macoun                              SK  -23----- RL 0701      4919N 10316W                                                   
+   CA MTQ Mactaquac                           Mactaquac                           NB  1-3----- RQ 0901                                                                     
+   CA MCT Mactier                             Mactier                             ON  --3----- RL 1207      4508N 07946W                                                   
+   CA MWA Madawaska                           Madawaska                           ON  --3----- RL 0201      4529N 07759W                                                   
+   CA MAD Madoc                               Madoc                               ON  --3----- RQ 9501                                                                     
+   CA MGD Magdalen Is                         Magdalen Is                         QC  1------- AS 0001                                                                     
+   CA MNW Magnetawan                          Magnetawan                          ON  --3----- RL 0307      4540N 07938W                                                   
+   CA MAG Magog                               Magog                               QC  1-3----- AS 1601      4516N 07209W                                                   
+   CA MGP Magpie                              Magpie                              QC  --3----- RQ 0901      5019N 06430W                                                   
+   CA MTA Magrath                             Magrath                             AB  --3----- RL 1301      4925N 11253W                                                   
+   CA MHB Mahone Bay                          Mahone Bay                          NS  1-3----- AS 9905                                                                     
+   CA MDS Maidstone                           Maidstone                           ON  -23----- RL 0701      4213N 08253W                                                   
+   CA MBR Main Brook                          Main Brook                          NL  1-3----- AS 0501      5111N 05601W                                                   
+   CA YDK Main Duck Island                    Main Duck Island                    ON  ---4---- AI 0002                                                                     
+   CA MAI Maisonnette Point                   Maisonnette Point                   NB  --3----- RL 0207      4750N 06500W                                                   
+   CA MTL Maitland                            Maitland                            ON  --3----- RQ 0907      4438N 07537W                                                   
+   CA YMN Makkovik                            Makkovik                            NL  ---4---- AI 0501      5505N 05911W                                                   
+   CA MA2 Malagash                            Malagash                            NS  --3----- RL 1301      4546N 06322W                                                   
+   CA MKW Malakwa                             Malakwa                             BC  --3----- RQ 0901      5056N 11847W                                                   
+   CA MTI Malartic                            Malartic                            QC  1----6-- RL 0901      4808N 07807W                                                   
+   CA MQE Malpeque Bay                        Malpeque Bay                        PE  --3----- RL 0207      4630N 06347W                                                   
+   CA MAL Malton                              Malton                              ON  --3----- RQ 0101                                                                     
+   CA AEO Ma-Ma-O Beach                       Ma-Ma-O Beach                       AB  --3----- RQ 0106      5258N 11357W                                                   
++  CA MAV Mandeville                          Mandeville                          QC  --3----- RL 1707      4622N 07321W                                                   
+   CA MLL Manilla                             Manilla                             ON  --3----- RL 0207      4418N 07900W                                                   
+   CA MTU Manitou                             Manitou                             MB  -23----- RL 0701      4914N 09832W                                                   
+   CA YMG Manitouwadge                        Manitouwadge                        ON  ---4---- AI 0002                                                                     
+   CA YEM Manitowaning                        Manitowaning                        ON  ---4---- AI 0002                                                                     
+   CA YMW Maniwaki                            Maniwaki                            QC  ---4---- AI 0002                                                                     
+   CA MTK Manotick                            Manotick                            ON  --3----- RL 0701      4514N 07541W                                                   
+   CA MSU Manseau                             Manseau                             QC  -23----- RL 0607      4622N 07200W                                                   
+   CA MSF Mansfield                           Mansfield                           ON  --3----- RL 0901      4512N 07554W                                                   
+   CA MAN Mansonville                         Mansonville                         QC  0------- RQ 9307                                                                     
+   CA MAP Maple                               Maple                               ON  --3----- RL 0207      4353N 07940W                                                   
+   CA YAQ Maple Bay                           Maple Bay                           BC  ---4---- AI 0002                                                                     
+   CA MCR Maple Creek                         Maple Creek                         SK  -23--6-- RL 0607      4955N 10929W                                                   
+   CA MPR Maple Ridge                         Maple Ridge                         NB  --3----- RQ 0901      4606N 06712W                                                   
+   CA MRI Maple Ridge                         Maple Ridge                         BC  1------- AS 9905                                                                     
+   CA MAR Marathon                            Marathon                            ON  1--4---- AS 9905 YSP                                                                 
+   CA MCD Marchand                            Marchand                            MB  --3----- RL 1301      4926N 09623W                                                   
+   CA MGE Margaree                            Margaree                            NS  --3----- RL 1301      4623N 06104W                                                   
+   CA MVA Margaree Valley                     Margaree Valley                     NS  --3----- RL 1201      4621N 06058W                                                   
+   CA MRG Margaret                            Margaret                            MB  -23----- RL 0701      4925N 09952W                                                   
+   CA MRR Maria                               Maria                               QC  --3----- RL 1601      4810N 06559W                                                   
+   CA YMC Maricourt Airstrip                  Maricourt Airstrip                  QC  ---4---- AI 0002                                                                     
+   CA MVL Marieville                          Marieville                          QC  --3----- RL 0201      4525N 07310W                                                   
+   CA MNV Marionville                         Marionville                         ON  --3----- RL 1107      4511N 07520W                                                   
+   CA MKD Markdale                            Markdale                            ON  -23----- RL 0101      4419N 08039W                                                   
+   CA MKH Markham                             Markham                             ON  --3----- RL 0001                                                                     
+   CA MMA Marmora                             Marmora                             ON  --3----- RL 0607      4429N 07741W                                                   
+   CA MQT Marquette                           Marquette                           MB  --3----- RL 0307      5004N 09743W                                                   
+   CA MAT Marshalltown                        Marshalltown                        NS  --3----- RL 1101      4434N 06548W                                                   
++  CA MVS Martensville                        Martensville                        SK  --3----- RL 1707      5217N 10640W                                                   
+   CA MTT Martintown                          Martintown                          ON  --3----- RL 1301      4512N 07435W                                                   
++  CA MAH Maryhill                            Maryhill                            ON  --3----- RL 1707      4332N 08023W                                                   
+   CA YMH Mary's Harbour                      Mary's Harbour                      NL  1--4---- AI 0501      5219N 05550W                                                   
+   CA MTN Marystown                           Marystown                           NL  1-3----- AS 0501      4710N 05510W                                                   
+   CA MSC Mascouche                           Mascouche                           QC  --3----- RL 0207      4545N 07336W                                                   
+   CA MKO Maskinonge                          Maskinonge                          QC  --3----- RQ 0901      4613N 07301W                                                   
+   CA MSS Masset                              Masset                              BC  1--4---- AI 9506 ZMT                                                                 
+   CA MAS Masson                              Masson                              QC  -23----- RL 0207      4533N 07526W                                                   
+   CA MSO Masstown                            Masstown                            NS  --3----- RL 1601      4523N 06328W                                                   
+   CA SVV Massueville                         Massueville                         QC  --3--6-- RQ 0901                                                                     
+   CA MHW Matachewan                          Matachewan                          ON  --3----- RL 1301      4800N 08039W                                                   
+   CA YNM Matagami                            Matagami                            QC  ---4---- AI 0002                                                                     
+   CA MNE Matane                              Matane                              QC  1--4---- AS 9905 YME                                                                 
+   CA MPA Matapedia                           Matapedia                           NB  --3----- RL 1301      4758N 06656W                                                   
+   
